@@ -1,16 +1,9 @@
-# timetable
 
-A new Flutter project.
+# Time Table Application
 
-## Getting Started
+It's a basic time table application which I create for myself. It use firebase for updating the schedule for the current date.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/SatyamBhargav/Time-Table/assets/42488997/c80b3928-8449-4c66-ab6b-4c0c99c893c2
