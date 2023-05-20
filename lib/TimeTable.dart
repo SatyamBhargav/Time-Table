@@ -15,9 +15,6 @@ class _TimeTableState extends State<TimeTable> {
 
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-          title: Center(child: Text('Time Table')),
-          backgroundColor: Colors.red),
       body: Column(
         children: [
           SizedBox(
